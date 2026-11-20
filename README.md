@@ -9,6 +9,11 @@ I'm a Computer Science Engineering graduate interested in exploring different ar
 My interests include software development, Python programming, cybersecurity, databases, and emerging technologies.
 
 ### 🛠️ Technical Skills
+### 💻 Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,mysql,html,css,spring,git,github,vscode" />
+</p>
 
 **Programming Languages**
 

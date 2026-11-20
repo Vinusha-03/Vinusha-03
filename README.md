@@ -8,13 +8,45 @@ I'm a Computer Science Engineering graduate interested in exploring different ar
 
 My interests include software development, Python programming, cybersecurity, databases, and emerging technologies.
 
-### 🚀 Technical Skills
+### 🛠️ Technical Skills
 
-* **Programming:** Python
-* **Core Computer Science:** Data Structures, Algorithms, Object-Oriented Programming
-* **Database:** SQL
-* **Tools:** Git, GitHub, Visual Studio Code
-* **Currently Learning:** Software Development, Cybersecurity and practical problem-solving
+**Programming Languages**
+
+* Python
+* Java
+* C
+
+**Web Technologies**
+
+* HTML
+* CSS
+
+**Database Technologies**
+
+* SQL
+* MySQL
+
+**Frameworks**
+
+* Spring Boot
+
+**Computer Science Fundamentals**
+
+* Data Structures and Algorithms (DSA)
+* Object-Oriented Programming (OOP)
+
+**Cybersecurity**
+
+* Cybersecurity Fundamentals
+* File Integrity Monitoring
+* Basic Phishing Detection Techniques
+
+**Development Tools**
+
+* Git
+* GitHub
+* Visual Studio Code
+
 
 ### 💻 My Projects
 

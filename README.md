@@ -67,6 +67,14 @@ My interests include software development, Python programming, cybersecurity, da
 * Uses heuristic checks to flag common phishing indicators.
 * [View Project](https://github.com/Vinusha-03/phishing-url-detector)
 
+**3. Personal Finance Tracker**
+
+* Python-based web application for managing personal income and expenses.
+* Uses Flask and MongoDB to store and manage financial transactions.
+* Includes monthly financial summaries and interactive expense distribution pie charts using Chart.js.
+* [View Project](https://github.com/Vinusha-03/personal-finance-tracker)
+
+
 ### 🎯 Career Interests
 
 * Software Development
